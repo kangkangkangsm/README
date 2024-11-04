@@ -89,7 +89,7 @@
   -  이벤트페이지: 월별 탐색 기능을 통한 다양한 사용자 경험 제공
   -  이벤트 페이지를 통해 스토어와 스터디 연결 및 사용자 접속률 향상
     
-[![GitHub](https://img.shields.io/badge/GitHub-songtaegeun-blue?logo=github)](https://github.com/songtaegeun)
+[![GitHub](https://img.shields.io/badge/GitHub-songtaegeun-blue?logo=github)](https://github.com/k9221)
 
 ## 🛠️ 사용된 기술 스택
 
