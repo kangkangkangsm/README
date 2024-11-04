@@ -71,7 +71,12 @@
 #### **송태근**
 고객 서비스 센터 관련 기능을 개발하고, 사용자 접근성과 관리자 관리 기능을 향상시키는 데 중요한 역할을 수행하였습니다.
 - **담당 기능**:
-  - 고객 서비스 센터 관련 코드 작성 
+  - 고객센터cscenter 파트
+  - 공지사항
+  - Faq 자주묻는 질문
+  - 문의하기
+  - 문의 내역 (관리자가 답변가능)
+  - 내가 문의한 내역 (사용자가 질문 관리자 답변 내용) 
 
 [![GitHub](https://img.shields.io/badge/GitHub-songtaegeun-blue?logo=github)](https://github.com/songtaegeun)
 
