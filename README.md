@@ -77,7 +77,7 @@
   - 문의 내역 (관리자가 답변가능)
   - 내가 문의한 내역 (사용자가 질문 관리자 답변 내용) 
 
-[![GitHub](https://img.shields.io/badge/GitHub-songtaegeun-blue?logo=github)](https://github.com/songtaegeun)
+[![GitHub](https://img.shields.io/badge/GitHub-songtaegeun-blue?logo=github)](https://github.com/songtaeg)
 
 ---
 
