@@ -49,7 +49,6 @@
   - 자유게시판 및 실시간 채팅 기능 개발: 사용자 간의 실시간 상호작용 지원
   - 그룹원 관리 인터페이스 개발: 그룹원 가입 승인 및 거절, 그룹원 강퇴 기능 제공
   - 스터디 그룹의 생성, 수정, 신청, 채팅에 관련된 여러 트리거를 개발하여 사용자에게 적시에 알림을 제공하도록 함.
-  - 인트로 페이지 : 플랫폼의 첫 화면으로 신간 도서 소개, 주요 메뉴로의 링크, 사용자 로그인 상태에 따른 맞춤형 기능 제공
    
 [![GitHub](https://img.shields.io/badge/GitHub-kangseonmin-blue?logo=github)](https://github.com/kangkangkangsm)
 
@@ -78,6 +77,15 @@
   - 문의 내역 (관리자가 답변가능)
   - 내가 문의한 내역 (사용자가 질문 관리자 답변 내용) 
 
+[![GitHub](https://img.shields.io/badge/GitHub-songtaegeun-blue?logo=github)](https://github.com/songtaegeun)
+
+---
+
+#### **김용준**
+????
+- **담당 기능**:
+  -  ??
+  -  
 [![GitHub](https://img.shields.io/badge/GitHub-songtaegeun-blue?logo=github)](https://github.com/songtaegeun)
 
 ## 🛠️ 사용된 기술 스택
