@@ -69,8 +69,8 @@
 ---
 
 #### **송태근**
+고객 서비스 센터 관련 기능을 개발하고, 사용자 접근성과 관리자 관리 기능을 향상시키는 데 중요한 역할을 수행하였습니다.
 - **담당 기능**:
-- 고객 서비스 센터 관련 기능을 개발하고, 사용자 접근성과 관리자 관리 기능을 향상시키는 데 중요한 역할을 수행하였습니다.
   - 고객 서비스 센터 관련 코드 작성 
 
 [![GitHub](https://img.shields.io/badge/GitHub-songtaegeun-blue?logo=github)](https://github.com/songtaegeun)
