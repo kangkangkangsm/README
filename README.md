@@ -36,7 +36,7 @@
   - 결제, 환불, 회원 정보 변경 등 여러 트리거를 개발하여 사용자에게 적시에 알림을 제공하도록 함.
   - Iamport 결제 연동 API 구현.
 
-[![GitHub](https://img.shields.io/badge/GitHub-haeyuseong-blue?logo=github)](https://github.com/haeyuseong)
+[![GitHub](https://img.shields.io/badge/GitHub-hayuseong-blue?logo=github)](https://github.com/YSLennon)
 
 ---
 
@@ -51,7 +51,7 @@
   - 스터디 그룹의 생성, 수정, 신청, 채팅에 관련된 여러 트리거를 개발하여 사용자에게 적시에 알림을 제공하도록 함.
   - 인트로 페이지 : 플랫폼의 첫 화면으로 신간 도서 소개, 주요 메뉴로의 링크, 사용자 로그인 상태에 따른 맞춤형 기능 제공
    
-[![GitHub](https://img.shields.io/badge/GitHub-kangsunmin-blue?logo=github)](https://github.com/kangkangkangsm)
+[![GitHub](https://img.shields.io/badge/GitHub-kangseonmin-blue?logo=github)](https://github.com/kangkangkangsm)
 
 ---
 
