@@ -35,6 +35,7 @@
   - 책 상세보기 페이지: 책 제목, 저자, 출판사, ISBN, 카테고리 등의 정보를 표시하고, 관련 도서 및 스터디 목록을 보여주며, 장바구니에 추가하는 기능을 구현
   - 결제, 환불, 회원 정보 변경 등 여러 트리거를 개발하여 사용자에게 적시에 알림을 제공하도록 함.
   - Iamport 결제 연동 API 구현.
+
 [![GitHub](https://img.shields.io/badge/GitHub-haeyuseong-blue?logo=github)](https://github.com/haeyuseong)
 
 ---
@@ -48,6 +49,7 @@
   - 자유게시판 및 실시간 채팅 기능 개발: 사용자 간의 실시간 상호작용 지원
   - 그룹원 관리 인터페이스 개발: 그룹원 가입 승인 및 거절, 그룹원 강퇴 기능 제공
   - 스터디 그룹의 생성, 수정, 신청, 채팅에 관련된 여러 트리거를 개발하여 사용자에게 적시에 알림을 제공하도록 함.
+
 [![GitHub](https://img.shields.io/badge/GitHub-kangsunmin-blue?logo=github)](https://github.com/kangsunmin)
 
 ---
